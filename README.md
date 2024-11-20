@@ -14,8 +14,8 @@ https://something.vercel.app
 
 ### Category & Topic
 
-- **Category:** Physical Activity / Sport
-- **Topic:** Crab Walking
+- **Category:** Historical Time
+- **Topic:** Renaissance
 
 ### Project Summary
 
