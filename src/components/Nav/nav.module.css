@@ -1,0 +1,17 @@
+.mainNav {
+  height: 65px;
+  background-color: var(--text-color);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.mainNav li {
+  list-style: none;
+}
+
+.mainNav li a {
+  text-decoration: none;
+  color: var(--accent-color);
+  font-size: 25px;
+}

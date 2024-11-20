@@ -1,11 +1,28 @@
 * {
- margin: 0;
- padding: 0;
- box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-html, body {
- height: 100%
+html,
+body {
+  height: 100%;
+  background-color: var(--background-color);
 }
-h1, h2, h3, h4, h5, h6, p {
- margin-bottom: 16px
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-bottom: 16px;
+}
+
+:root {
+  --text-color: #040300;
+  --background-color: #f6e1c6;
+  --primary-color: #4e1c0e;
+  --secondary-color: #6d4728;
+  --Tertiary-color: #826349;
+  --accent-color: #6d9eb6;
 }
