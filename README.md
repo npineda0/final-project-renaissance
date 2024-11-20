@@ -1,12 +1,13 @@
 ### Group Title
 
-Crab Walking Gurus
+Renaissance Period
 
 ### Group Members
 
-- Ty Streets
-- {Member 2 Name}
-- {Member 3 Name}
+- Naila Lugardo
+- Denisse Henriquez
+- Francis Alcala
+- CJ Eilenstine
 
 ### Web App Link
 
