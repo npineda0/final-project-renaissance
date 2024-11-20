@@ -50,9 +50,10 @@ This section will break down the pages and components of the web app, specifying
    - Description: Where users can learn about fine art from the renaissance time period.
    - Responsible: Francis Alcala
 
-6. **{Additional Pages}**
+6. **Religion**
 
-   - {Repeat this pattern for other pages of the app}
+   - Description: Users can go to this page to learn about the progression of religion during the Renaissance and how humanism affected popular theologies.
+   - Responsible: CJ Eilenstine
 
 7. **{Additional Pages}**
    - {Repeat this pattern for other pages of the app}
