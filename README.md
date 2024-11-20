@@ -41,7 +41,20 @@ This section will break down the pages and components of the web app, specifying
    - Description: Where users can send contact messages to the site admins.
    - Responsible: {Team Member Name}
 
-4. **{Additional Pages}**
+4. **Music**
+
+   - {Repeat this pattern for other pages of the app}
+
+5. **Fine Arts**
+
+   - Description: Where users can learn about fine art from the renaissance time period.
+   - Responsible: Francis Alcala
+
+6. **{Additional Pages}**
+
+   - {Repeat this pattern for other pages of the app}
+
+7. **{Additional Pages}**
    - {Repeat this pattern for other pages of the app}
 
 ### Sources Cited
