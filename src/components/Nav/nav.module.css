@@ -1,5 +1,5 @@
 .mainNav {
-  height: 65px;
+  height: 10vh;
   background-color: var(--text-color);
   display: flex;
   justify-content: space-around;

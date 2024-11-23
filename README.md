@@ -66,3 +66,4 @@ This section will list any places where you pulled information from to generate 
 - [Britannica: Renaissance Period Literature ](https://www.britannica.com/art/English-literature/The-Renaissance-period-1550-1660)
 - [Lumen Learning: Literature in the Renaissance](https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/literature-in-the-renaissance/)
 - [History: Renaissance](https://www.history.com/topics/renaissance/renaissance)
+- [Parblo: 10 famous paintings from the Renaissance](https://www.parblo.com/blogs/guides/10-most-famous-paintings-of-the-renaissance)

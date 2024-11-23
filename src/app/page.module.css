@@ -1,1 +1,21 @@
+.homeMain {
+  min-height: 90vh;
+  max-width: 100%;
 
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+}
+
+.homeMain p {
+  text-align: center;
+  font-size: 1.125rem;
+
+  width: 30em;
+}
+
+.homeMain img {
+  width: 400px;
+  height: auto;
+}
