@@ -65,4 +65,4 @@ This section will list any places where you pulled information from to generate 
 
 - [Britannica: Renaissance Period Literature ](https://www.britannica.com/art/English-literature/The-Renaissance-period-1550-1660)
 - [Lumen Learning: Literature in the Renaissance](https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/literature-in-the-renaissance/)
-- [Text for Source](linkForSource)
+- [History: Renaissance](https://www.history.com/topics/renaissance/renaissance)

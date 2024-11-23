@@ -9,13 +9,11 @@ export default function Nav() {
           <Link href="/">Home</Link>
         </li>
         <li>
-          <Link href="/">link</Link>
+          <Link href="/religion">Religion</Link>
         </li>
         <li>
           <Link href="/">link</Link>
         </li>
-        
-        
       </ul>
     </nav>
   );

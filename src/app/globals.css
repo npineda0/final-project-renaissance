@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "Maconda";
+  src: url("../app/fonts/Macondo/Macondo-Regular.ttf") format("truetype");
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +12,7 @@ html,
 body {
   height: 100%;
   background-color: var(--background-color);
+  font-family: Maconda;
 }
 h1,
 h2,
