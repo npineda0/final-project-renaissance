@@ -43,8 +43,8 @@ This section will break down the pages and components of the web app, specifying
 
 4. **Music**
 
-- Description: This is where the users can filter through to hear and learn about the different types of music that was played during the Renaissance.
-- Responsible: Denisse Henriquez Dubon
+   - Description: This is where the users can filter through to hear and learn about the different types of music that was played during the Renaissance.
+   - Responsible: Denisse Henriquez Dubon
 
 5. **Fine Arts**
 
