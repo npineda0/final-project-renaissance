@@ -38,8 +38,8 @@ This section will break down the pages and components of the web app, specifying
 
 3. **Contact Page**
 
-   - Description: Where users can send contact messages to the site admins.
-   - Responsible: {Team Member Name}
+   - Description: This is where the users can send any questions they may have about the websites or any reccomandations.
+   - Responsible: Denisse Henriquez Dubon
 
 4. **Music**
 
