@@ -20,7 +20,7 @@ https://final-project-renaissance.vercel.app/
 
 ### Project Summary
 
-This web app will outline the benefits and techniques of crab walking. [Additional text about crab walking]
+This web app will inform users about the Renaissance, a period in European civilization marked by a rebirth of classical learning and cultural achievements. Users will read about the significance of art, religion, literature, and music from this time period. This app will allow users to filter and listen to music, view the progression of religious ideas, and learn about fine art and literary works. Additionally, users can create an account and contact us with any further questions.
 
 ### Web App Structure and Responsibilities
 
