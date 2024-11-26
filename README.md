@@ -48,7 +48,7 @@ This section will break down the pages and components of the web app, specifying
 
 5. **Fine Arts**
 
-   - Description: Where users can learn about fine art from the renaissance time period.
+   - Description: Where users can learn about fine art from the Renaissance time period.
    - Responsible: Francis Alcala
 
 6. **Religion**
@@ -56,14 +56,15 @@ This section will break down the pages and components of the web app, specifying
    - Description: Users can go to this page to learn about the progression of religion during the Renaissance and how humanism affected popular theologies.
    - Responsible: CJ Eilenstine
 
-7. **{Additional Pages}**
-   - {Repeat this pattern for other pages of the app}
+7. **Literature**
+   - Description: Users can learn about the most influential literature works and writers from the Renaissance period.
+   - Responsible: Naila Lugardo
 
 ### Sources Cited
 
 This section will list any places where you pulled information from to generate content for your site. If an LMS was used then put you prompt below the link.
 
 - [Britannica: Renaissance Period Literature ](https://www.britannica.com/art/English-literature/The-Renaissance-period-1550-1660)
-- [Lumen Learning: Literature in the Renaissance](https://courses.lumenlearning.com/suny-fmcc-boundless-worldhistory/chapter/literature-in-the-renaissance/)
+- [ThoughtCo: Renaissance Writers ](https://www.thoughtco.com/top-renaissance-writers-4156665)
 - [History: Renaissance](https://www.history.com/topics/renaissance/renaissance)
 - [Parblo: 10 famous paintings from the Renaissance](https://www.parblo.com/blogs/guides/10-most-famous-paintings-of-the-renaissance)
