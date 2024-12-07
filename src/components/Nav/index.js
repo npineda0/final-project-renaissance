@@ -1,5 +1,6 @@
 import Link from "next/link";
 import navStyles from "./nav.module.css";
+import { SignInButton, SignedIn, SignedOut, UserButton } from "@clerk/nextjs";
 
 export default function Nav() {
   return (
