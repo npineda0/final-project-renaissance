@@ -14,6 +14,14 @@ export default function Nav() {
         <li>
           <Link href="/">link</Link>
         </li>
+        <li>
+          <SignedOut>
+            <SignInButton />
+          </SignedOut>
+          <SignedIn>
+            <UserButton />
+          </SignedIn>
+        </li>
       </ul>
     </nav>
   );
