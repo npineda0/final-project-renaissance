@@ -29,6 +29,10 @@ p {
   --background-color: #f6e1c6;
   --primary-color: #4e1c0e;
   --secondary-color: #6d4728;
-  --Tertiary-color: #826349;
+  --tertiary-color: #826349;
   --accent-color: #6d9eb6;
+
+  --primary-color-rgba: rgba(78, 28, 14, 0.4);
+  --secondary-color-rgba: rgba(109, 71, 40, 0.4);
+  --accent-color-rgba: rgba(109, 158, 182, 0.4);
 }

@@ -1,0 +1,81 @@
+.religion {
+  height: 90vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.relContent {
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.r1 {
+  height: 60vh;
+  width: 25vw;
+
+  background-color: var(--primary-color-rgba);
+  border: none;
+  border-radius: 1rem;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+
+  padding: 1rem;
+
+  text-align: center;
+}
+
+.r1:hover {
+  outline: solid 3px var(--text-color);
+}
+
+.r2 {
+  height: 60vh;
+  width: 25vw;
+
+  background-color: var(--secondary-color-rgba);
+  border: none;
+  border-radius: 1rem;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+
+  padding: 1rem;
+
+  text-align: center;
+}
+
+.r2:hover {
+  outline: solid 3px var(--text-color);
+}
+
+.r3 {
+  height: 60vh;
+  width: 25vw;
+
+  background-color: var(--accent-color-rgba);
+  border: none;
+  border-radius: 1rem;
+
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-around;
+
+  padding: 1rem;
+
+  text-align: center;
+}
+
+.r3:hover {
+  outline: solid 3px var(--text-color);
+}
