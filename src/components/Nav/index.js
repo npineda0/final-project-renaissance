@@ -13,7 +13,16 @@ export default function Nav() {
           <Link href="/religion">Religion</Link>
         </li>
         <li>
-          <Link href="/">link</Link>
+          <Link href="/music">Music</Link>
+        </li>
+        <li>
+          <Link href="/arts">Fine Arts</Link>
+        </li>
+        <li>
+          <Link href="/literature">Literature</Link>
+        </li>
+        <li>
+          <Link href="/contact">Contact</Link>
         </li>
         <li>
           <SignedOut>
