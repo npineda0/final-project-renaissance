@@ -68,3 +68,5 @@ This section will list any places where you pulled information from to generate 
 - [ThoughtCo: Renaissance Writers ](https://www.thoughtco.com/top-renaissance-writers-4156665)
 - [History: Renaissance](https://www.history.com/topics/renaissance/renaissance)
 - [Parblo: 10 famous paintings from the Renaissance](https://www.parblo.com/blogs/guides/10-most-famous-paintings-of-the-renaissance)
+- [WikiPedia](https://en.wikipedia.org/wiki/Renaissance#Religion)
+- [Google Arts and Culture: Renaissance Art](https://artsandculture.google.com/usergallery/religious-art-throughout-the-renaissance/1wISpDWs4ZhBJA)
