@@ -19,7 +19,7 @@ export default function Religion() {
               stories and relate to the subjects. Churches also hoped to inspire
               greater devotion to religion and arouse more desire for salvation.
             </p>
-            <Learn link={"/religion/theology"}></Learn>
+            <Learn link={"/religion/art"}></Learn>
           </div>
         </SignedIn>
         <div className={relStyles.r2}>

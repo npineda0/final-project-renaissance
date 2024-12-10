@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  text-align: center;
+
+  height: 90vh;
+
+  padding: 2rem;
+}
+
+.gallery {
+  width: 90vw;
+  min-height: 70vh;
+
+  /* background-color: var(--primary-color-rgba); */
+}

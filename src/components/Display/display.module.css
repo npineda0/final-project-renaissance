@@ -1,0 +1,19 @@
+.display {
+  width: 300px;
+  min-height: 400px;
+
+  background-color: var(--accent-color-rgba);
+
+  padding: 1rem;
+
+  border-radius: 1rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.display p {
+  margin-top: 1rem;
+}
