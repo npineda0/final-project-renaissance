@@ -1,8 +1,9 @@
+"use client";
 import contactStyles from "./contact.module.css";
 
 export default function contact() {
   return (
-    <main>
+    <main className={contactStyles.renaissance}>
       <h1>Contact</h1>
 
       <form>
@@ -19,6 +20,8 @@ export default function contact() {
 
         <label>Please type your questions or reccomandation you have</label>
         <textarea></textarea>
+
+        <button>Submit</button>
       </form>
     </main>
   );
