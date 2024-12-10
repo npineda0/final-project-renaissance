@@ -16,7 +16,7 @@ export default function literature() {
         <BasicInfo 
           img="/shakespeareHamlet.png"
           header="Hamlet"
-          subheader="1600"
+          subheader="1623"
           nested={"/literature/shakespeare"}
         />
 

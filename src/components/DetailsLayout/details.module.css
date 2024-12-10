@@ -1,3 +1,11 @@
 .container {
     margin-bottom: 25px;
 }
+
+.title {
+    font-size: 22px;
+}
+
+.desc {
+    max-width: 650px;
+}

@@ -29,7 +29,7 @@ This section will break down the pages and components of the web app, specifying
 1. **Home Page**
 
    - Description: The main landing page of the application.
-   - Responsible: CJ Eilenstine, Naila Lugardo
+   - Responsible: CJ Eilenstine
 
 2. **User Profile Page**
 
