@@ -15,7 +15,7 @@ export default function literature() {
       <section className={literatureStyles.container}>
         <BasicInfo 
           img="/shakespeareHamlet.png"
-          header="Shakespeare"
+          header="Hamlet"
           subheader="1600"
           nested={"/literature/shakespeare"}
         />

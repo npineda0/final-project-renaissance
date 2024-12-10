@@ -1,7 +1,6 @@
 import basicStyles from "./basic.module.css";
 import Learn from "../LearnButton";
 
-
 export default function BasicInfo({ img = " " , header = " " , subheader = " " , nested=" " }) {
     return (
         <section className={basicStyles.bookContainer}>
@@ -11,4 +10,4 @@ export default function BasicInfo({ img = " " , header = " " , subheader = " " ,
             <Learn link={nested}></Learn>
         </section>
     );
-  }
+}
