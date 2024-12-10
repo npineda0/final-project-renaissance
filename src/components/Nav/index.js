@@ -26,7 +26,7 @@ export default function Nav() {
         </li>
         <li>
           <SignedOut>
-            <SignInButton />
+            <SignInButton className="SignInButton"/>
           </SignedOut>
           <SignedIn>
             <UserButton />

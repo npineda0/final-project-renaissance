@@ -10,3 +10,10 @@
     margin: 0 auto;
     margin-top: 30px;
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
