@@ -12,8 +12,14 @@
   align-items: center;
   justify-content: space-around;
   flex-direction: column;
+
+  margin-bottom: 2rem;
 }
 
 .display p {
+  margin-top: 1rem;
+}
+
+.display img {
   margin-top: 1rem;
 }
