@@ -1,3 +1,31 @@
 .musicDesign h1{
-    
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.musicDesign h5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.musicDesign div{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.musicDesign img{
+    width: 100px;
+}
+
+.musicDesign button{
+    width: 7%;
+    padding: 12px;
+    /* font-size: 16px; */
+    border-radius: 6px;
 }
