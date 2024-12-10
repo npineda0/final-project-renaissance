@@ -1,0 +1,9 @@
+.backButton {
+    width: 8rem;
+    height: 3rem;
+
+    border: solid 2px var(--text-color);
+    border-radius: 1rem;
+
+    background-color: var(--tertiary-color);
+}

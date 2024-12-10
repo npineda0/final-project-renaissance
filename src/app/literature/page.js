@@ -24,14 +24,14 @@ export default function literature() {
           img="/chaucerCanterbury.png"
           header="Chaucer"
           subheader="1600"
-          nested={"/literature/"}
+          nested={"/literature/chaucer"}
         />
 
         <BasicInfo 
           img="/machiavelliPrince.png"
           header="Machiavelli"
           subheader="1600"
-          nested={"/literature/"}
+          nested={"/literature/machiavelli"}
         />
       </section>
 
@@ -40,21 +40,21 @@ export default function literature() {
           img="/cervantesDonquixote.png"
           header="Cervantes"
           subheader="1600"
-          nested={"/literature/"}
+          nested={"/literature/cervantes"}
         />
 
         <BasicInfo 
           img="/alighieriDivine.png"
           header="Alighieri"
           subheader="1600"
-          nested={"/literature/"}
+          nested={"/literature/alighieri"}
         />
 
         <BasicInfo 
           img="/spenserFaerie.png"
           header="Spenser"
           subheader="1600"
-          nested={"/literature/"}
+          nested={"/literature/spenser"}
         />
       </section>
     </main>

@@ -1,0 +1,13 @@
+.msgContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 45px;
+    font-size: 30px;
+}
+
+.msgHeader {
+    font-size: 40px;
+}
