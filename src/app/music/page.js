@@ -10,29 +10,31 @@ export default function music() {
         shift from sacred to secular music
       </h5>
 
-      <div>
-        <h3>Greensleeves</h3>
-        <img src="https://www.mfiles.co.uk/scores/greensleeves-flute-and-guitar.jpg" />
-        <p>An English song that was well known by the time of Shakespeare</p>
-        <button>Read More</button>
-      </div>
+      <section>
+        <div>
+          <h3>Greensleeves</h3>
+          <img src="https://www.mfiles.co.uk/scores/greensleeves-flute-and-guitar.jpg" />
+          <p>An English song that was well known by the time of Shakespeare</p>
+          <button>Read More</button>
+        </div>
 
-      <div>
-        <h3>Missa Papae Marcelli</h3>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXBE8FQ0l1zB_YB5qFJVqBXLegqjQ7yMoQQ&s" />
-        <p>Written by Giovanni Pierluigi</p>
-        <button>Read More</button>
-      </div>
+        <div>
+          <h3>Missa Papae Marcelli</h3>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXBE8FQ0l1zB_YB5qFJVqBXLegqjQ7yMoQQ&s" />
+          <p>Written by Giovanni Pierluigi</p>
+          <button>Read More</button>
+        </div>
 
-      <div>
-        <h3>Madrigal</h3>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9Vi1xErQFSDM8nZWkQ40V-MzOReQz9g3ng&s" />
-        <p>
-          A secular vocal genre that was usually performed acappella and in
-          polyphonic texture
-        </p>
-        <button>Read More</button>
-      </div>
+        <div>
+          <h3>Madrigal</h3>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9Vi1xErQFSDM8nZWkQ40V-MzOReQz9g3ng&s" />
+          <p>
+            A secular vocal genre that was usually performed acappella and in
+            polyphonic texture
+          </p>
+          <button>Read More</button>
+        </div>
+      </section>
     </main>
   );
 }

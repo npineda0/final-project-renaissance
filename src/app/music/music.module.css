@@ -17,15 +17,29 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 400px;
+    height: 400px;
 }
 
 .musicDesign img{
     width: 100px;
 }
 
+.musicDesign p{
+    margin-top: 15px;
+}
+
 .musicDesign button{
-    width: 7%;
+    width: 20%;
     padding: 12px;
-    /* font-size: 16px; */
     border-radius: 6px;
+}
+
+.musicDesign section{
+    margin: 0 auto;
+    width: 80%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
