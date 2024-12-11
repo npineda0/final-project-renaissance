@@ -26,7 +26,7 @@ export default function AuthInfo() {
                 <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from The Divine Comedy!</p>
                 <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide The Divine Comedy Quote' : 'View The Divine Comedy Quote'}</button>
                 {viewQuote && (
-                    <p className={authStyles.litQuote}>"All hope abandon, ye who enter here."</p>
+                    <p className={authStyles.litQuote}>&ldquo;All hope abandon, ye who enter here.&rdquo;</p>
                 )}
             </section>
         </main>

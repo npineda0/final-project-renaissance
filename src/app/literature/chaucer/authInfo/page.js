@@ -27,8 +27,8 @@ export default function AuthInfo() {
                 <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide Canterbury Tales Quote' : 'View Canterbury Tales Quote'}</button>
                 {viewQuote && (
                     <p className={authStyles.litQuote}>
-                        “Though there was nowhere one so busy as he, <br/>
-                        He was less busy than he seemed to be.”
+                        &ldquo;Though there was nowhere one so busy as he, <br/>
+                        He was less busy than he seemed to be.&rdquo;
                     </p>
                 )}
             </section>

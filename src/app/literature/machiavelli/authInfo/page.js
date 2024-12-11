@@ -26,7 +26,7 @@ export default function AuthInfo() {
                 <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from The Prince!</p>
                 <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide The Prince Quote' : 'View The Prince Quote'}</button>
                 {viewQuote && (
-                    <p className={authStyles.litQuote}>“Every one sees what you appear to be, few really know what you are.”</p>
+                    <p className={authStyles.litQuote}>&ldquo;Every one sees what you appear to be, few really know what you are.&rdquo;</p>
                 )}
             </section>
         </main>

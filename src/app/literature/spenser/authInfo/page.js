@@ -26,7 +26,7 @@ export default function AuthInfo() {
                 <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from The Faerie Queene!</p>
                 <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide The Faerie Queene Quote' : 'View The Faerie Queene Quote'}</button>
                 {viewQuote && (
-                    <p className={authStyles.litQuote}>"For there is nothing lost, that may be found, if sought."</p>
+                    <p className={authStyles.litQuote}>&ldquo;For there is nothing lost, that may be found, if sought.&rdquo;</p>
                 )}
             </section>
         </main>

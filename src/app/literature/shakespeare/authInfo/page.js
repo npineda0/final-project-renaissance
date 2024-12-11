@@ -26,7 +26,7 @@ export default function AuthInfo() {
                 <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from Hamilton!</p>
                 <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide Hamilton Quote' : 'View Hamilton Quote'}</button>
                 {viewQuote && (
-                    <p className={authStyles.litQuote}>"To be or not to be"</p>
+                    <p className={authStyles.litQuote}>&ldquo;To be or not to be&rdquo;</p>
                 )}
             </section>
         </main>
