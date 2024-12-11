@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 16px;
 }
 
 .musicDesign div{
@@ -30,9 +31,14 @@
 }
 
 .musicDesign button{
-    width: 20%;
-    padding: 12px;
-    border-radius: 6px;
+    width: 8rem;
+    height: 3rem;
+    border: 2px solid var(--text-color);
+    border-radius: 1rem;
+    background-color: var(--tertiary-color);
+    cursor: pointer;
+    font-family: Maconda;
+    font-size: 17px;
 }
 
 .musicDesign section{
