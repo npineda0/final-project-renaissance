@@ -71,3 +71,7 @@ This section will list any places where you pulled information from to generate 
 - [WikiPedia](https://en.wikipedia.org/wiki/Renaissance#Religion)
 - [Google Arts and Culture: Renaissance Art](https://artsandculture.google.com/usergallery/religious-art-throughout-the-renaissance/1wISpDWs4ZhBJA)
 - [Art Institute Chicago](https://www.artic.edu/collection)
+- [Music of the English Renaissance](https://www.abc.net.au/listen/classic/read-and-watch/listening-guide/music-of-the-english-renaissance/11427460)
+- [Missa Papae Marcelli](https://en.wikipedia.org/wiki/Missa_Papae_Marcelli)
+- [Greensleeves](https://en.wikipedia.org/wiki/Greensleeves)
+- [Madrigal](https://en.wikipedia.org/wiki/Madrigal)
