@@ -28,7 +28,7 @@ export default function Spenser() {
                         img="/spenserPortrait.png"
                         header="Edmund Spenser"
                         subheader="est. 1552 &ndash; January 13, 1599"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/spenser/authInfo"}
                     />
                     </div>
 

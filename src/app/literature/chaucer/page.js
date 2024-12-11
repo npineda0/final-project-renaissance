@@ -28,7 +28,7 @@ export default function Chaucer() {
                         img="/chaucerPortrait.png"
                         header="Geoffrey Chaucer"
                         subheader="est. 1340 &ndash; October 25, 1400"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/chaucer/authInfo"}
                     />
                     </div>
 

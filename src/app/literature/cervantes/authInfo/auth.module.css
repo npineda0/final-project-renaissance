@@ -1,0 +1,28 @@
+.headingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.header {
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: -20px;
+}
+
+.authInfoContainer {
+    margin: 0 auto;
+    max-width: 300px;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.randomQuoteContainer {
+    margin: 0 auto;
+    max-width: 300px;
+    font-size: 20px;
+    text-align: center;
+}

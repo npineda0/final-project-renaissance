@@ -28,7 +28,7 @@ export default function Cervantes() {
                         img="/cervantesPortrait.png"
                         header="Miguel de Cervantes"
                         subheader="September 29, 1547 &ndash; April 22, 1616"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/cervantes/authInfo"}
                     />
                     </div>
 

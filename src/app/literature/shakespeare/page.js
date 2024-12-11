@@ -29,7 +29,7 @@ export default function Shakespeare() {
                         img="/shakespearePortrait.png"
                         header="William Shakespeare"
                         subheader="April 23, 1564 &ndash; April 23, 1616"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/shakespeare/authInfo"}
                     />
                     </div>
 

@@ -28,7 +28,7 @@ export default function Alighieri() {
                         img="/alighieriPortrait.png"
                         header="Dante Alighieri"
                         subheader="est. 1265 &ndash; September 14, 1321"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/alighieri/authInfo"}
                     />
                     </div>
 

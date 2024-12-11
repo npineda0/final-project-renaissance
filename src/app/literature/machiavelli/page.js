@@ -28,7 +28,7 @@ export default function Machiavelli() {
                         img="/machiavelliPortrait.png"
                         header="Nicholas Machiavelli"
                         subheader="May 3, 1469 &ndash; June 21, 1527"
-                        nested={"/literature/shakespeareInfo"}
+                        nested={"/literature/machiavelli/authInfo"}
                     />
                     </div>
 
