@@ -6,4 +6,8 @@
     border-radius: 1rem;
 
     background-color: var(--tertiary-color);
+
+    cursor: pointer;
+    font-family: Maconda;
+    font-size: 17px;
 }

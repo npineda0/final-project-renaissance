@@ -18,11 +18,33 @@
     max-width: 300px;
     font-size: 20px;
     margin-bottom: 40px;
+    text-align: center;
 }
 
-.randomQuoteContainer {
+.quoteContainer {
     margin: 0 auto;
-    max-width: 300px;
-    font-size: 20px;
+    max-width: 330px;
+    font-size: 25px;
     text-align: center;
+}
+
+.quoteBtn {
+    height: 60px;
+    width: 200px;
+    font-size: 18px;
+    font-family: Maconda;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: var(--accent-color);
+    margin-bottom: 10px; 
+}
+.quoteBtn:hover {
+    background-color: var(--text-color);
+    color: var(--accent-color);
+}
+
+.litQuote {
+    margin-top: 15px;
+    padding-bottom: 20px;   
 }

@@ -1,7 +1,11 @@
+"use client";
+import { useState } from "react";
 import authStyles from "./auth.module.css";
 import GoBack from "@/components/GoBackButton";
 
 export default function AuthInfo() {
+    const [viewQuote, setViewQuote] = useState(false);
+
     return (
         <main>
             <div className={authStyles.headingContainer}>
@@ -10,6 +14,7 @@ export default function AuthInfo() {
             </div>
 
             <section className={authStyles.authInfoContainer}>
+                <img src="/cervantesPortrait.png" height={250} width={210}/>
                 <p className={authStyles.born}>Born: September 29, 1547</p>
                 <p className={authStyles.died}>Died: April 22, 1616</p>
                 <p className={authStyles.birthPlace}>Birth Place: Alcalá de Henares, Spain</p>
@@ -17,9 +22,12 @@ export default function AuthInfo() {
                 <p className={authStyles.children}>Children: Isabel de Saavedra</p>
             </section>
 
-            <section className={authStyles.randomQuoteContainer}>
-                <p>Click the button below to get quotes from the author!</p>
-                
+            <section className={authStyles.quoteContainer}>
+                <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from Don Quixote!</p>
+                <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide Don Quixote Quote' : 'View Don Quixote Quote'}</button>
+                {viewQuote && (
+                    <p className={authStyles.litQuote}>“For neither good nor evil can last for ever; and so it follows that as evil has lasted a long time, good must now be close at hand.”</p>
+                )}
             </section>
         </main>
     );

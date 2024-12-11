@@ -1,7 +1,11 @@
+"use client";
+import { useState } from "react";
 import authStyles from "./auth.module.css";
 import GoBack from "@/components/GoBackButton";
 
 export default function AuthInfo() {
+    const [viewQuote, setViewQuote] = useState(false);
+
     return (
         <main>
             <div className={authStyles.headingContainer}>
@@ -10,6 +14,7 @@ export default function AuthInfo() {
             </div>
 
             <section className={authStyles.authInfoContainer}>
+                <img src="/spenserPortrait.png" height={250} width={200}/>
                 <p className={authStyles.born}>Born: est. 1552</p>
                 <p className={authStyles.died}>Died: January 13, 1599</p>
                 <p className={authStyles.birthPlace}>Birth Place: London, United Kingdom</p>
@@ -17,9 +22,12 @@ export default function AuthInfo() {
                 <p className={authStyles.children}>Children: Sylvanus Spenser, Lawrence Spenser, Catherine Wiseman, Peregrine Spenser</p>
             </section>
 
-            <section className={authStyles.randomQuoteContainer}>
-                <p>Click the button below to get quotes from The Faerie Queene!</p>
-                
+            <section className={authStyles.quoteContainer}>
+                <p className={authStyles.quoteHeader}>Click the button below to view the most popular quote from The Faerie Queene!</p>
+                <button className={authStyles.quoteBtn} onClick={() => setViewQuote(!viewQuote)}>{viewQuote ? 'Hide The Faerie Queene Quote' : 'View The Faerie Queene Quote'}</button>
+                {viewQuote && (
+                    <p className={authStyles.litQuote}>"For there is nothing lost, that may be found, if sought."</p>
+                )}
             </section>
         </main>
     );
