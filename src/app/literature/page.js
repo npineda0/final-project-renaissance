@@ -22,15 +22,15 @@ export default function literature() {
 
         <BasicInfo 
           img="/chaucerCanterbury.png"
-          header="Chaucer"
-          subheader="1600"
+          header="Canterbury Tales"
+          subheader="1400"
           nested={"/literature/chaucer"}
         />
 
         <BasicInfo 
           img="/machiavelliPrince.png"
-          header="Machiavelli"
-          subheader="1600"
+          header="The Prince"
+          subheader="1532"
           nested={"/literature/machiavelli"}
         />
       </section>
@@ -38,22 +38,22 @@ export default function literature() {
       <section className={literatureStyles.container}>
         <BasicInfo 
           img="/cervantesDonquixote.png"
-          header="Cervantes"
-          subheader="1600"
+          header="Don Quixote"
+          subheader="1605"
           nested={"/literature/cervantes"}
         />
 
         <BasicInfo 
           img="/alighieriDivine.png"
-          header="Alighieri"
-          subheader="1600"
+          header="The Divine Comedy"
+          subheader="1321"
           nested={"/literature/alighieri"}
         />
 
         <BasicInfo 
           img="/spenserFaerie.png"
-          header="Spenser"
-          subheader="1600"
+          header="The Faerie Queene"
+          subheader="1590"
           nested={"/literature/spenser"}
         />
       </section>

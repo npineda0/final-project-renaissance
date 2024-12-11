@@ -24,9 +24,9 @@ export default function AuthorDetailsPage({ params: { authorName } }) {
     }
 
     return (
-    <main>
-        <h1>Topic: {authorName}</h1>
-        {authorInfo}
-    </main>
+        <main>
+            <h2>{authorName}</h2>
+            <p>{authorInfo}</p>
+        </main>
     );
 }

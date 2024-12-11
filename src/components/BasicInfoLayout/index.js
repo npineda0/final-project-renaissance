@@ -5,7 +5,7 @@ export default function BasicInfo({ img = " " , header = " " , subheader = " " ,
     return (
         <section className={basicStyles.bookContainer}>
             <img src={img} alt="bookCover" className={basicStyles.bookImg} width={200}/>
-            <p className={basicStyles.Header}>{header}</p>
+            <p className={basicStyles.header}>{header}</p>
             <p className={basicStyles.subHead}>{subheader}</p>
             <Learn link={nested}></Learn>
         </section>

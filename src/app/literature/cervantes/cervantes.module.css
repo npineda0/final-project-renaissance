@@ -11,3 +11,40 @@
 .msgHeader {
     font-size: 40px;
 }
+
+.msgDesc {
+    margin-bottom: 30px;
+}
+
+.headingContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+
+.header {
+    font-size: 40px;
+    margin-top: 15px;
+    margin-bottom: -20px;
+}
+
+.contentContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
+.rightSect {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.contentTxt {
+    margin-left: 200px;
+}

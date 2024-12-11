@@ -26,9 +26,9 @@ export default function Shakespeare() {
                     <div className={shakespeareStyles.rightSect}>
                     <h2>Author:</h2>
                     <BasicInfo 
-                        img="/spenserFaerie.png"
+                        img="/shakespearePortrait.png"
                         header="William Shakespeare"
-                        subheader="April 23, 1564 – April 23, 1616"
+                        subheader="April 23, 1564 &ndash; April 23, 1616"
                         nested={"/literature/shakespeareInfo"}
                     />
                     </div>
@@ -47,7 +47,6 @@ export default function Shakespeare() {
                             desc="1623"
                         />
                     </div>
-                    
                 </div>
             </SignedIn>
         </main>
