@@ -57,7 +57,13 @@ This section will break down the pages and components of the web app, specifying
    - Responsible: CJ Eilenstine
 
 7. **Literature**
-   - Description: Users can learn about the most influential literature works and writers from the Renaissance period.
+   - Description: Users can learn about the most influential literature works and writers from the Renaissance period. When users are signed out, they can view the the literatrure page, but if 
+   they want to learn more about the book, they need to be signed in to view the details. Once signed in, the user has access to all routes in literary page. In the view book details page, the user will see a brief description of the book and author. They can choose to view more
+   details of the author, which will navigate them to a screen with author details along with an interactive button to view the most popular quote from the authors novel. 
+      - Components:
+         - BasicInfoLayout: used to display books in the literature screen. (img, heading, subheading, learnButton)
+         - DetailsLayout: used to display book details. (title, description)
+         - GoBackButton: button to navigate back to previous page. (link)
    - Responsible: Naila Lugardo
 
 ### Sources Cited
