@@ -39,6 +39,12 @@
     cursor: pointer;
     font-family: Maconda;
     font-size: 17px;
+    text-decoration: none;
+}
+
+.musicDesign button a{
+    text-decoration: none;
+    color: black;
 }
 
 .musicDesign section{
@@ -49,3 +55,4 @@
     align-items: center;
     justify-content: center;
 }
+

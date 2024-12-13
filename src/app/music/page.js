@@ -17,8 +17,10 @@ export default function music() {
           <img src="https://www.mfiles.co.uk/scores/greensleeves-flute-and-guitar.jpg" />
           <p>An English song that was well known by the time of Shakespeare</p>
 
-          <Link href="/music/greensleeves">Read More</Link>
-          {/* <button>Read More</button> */}
+          <button>
+            {" "}
+            <Link href="/music/greensleeves">Read More</Link>
+          </button>
         </div>
 
         <div>
