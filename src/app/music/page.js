@@ -1,4 +1,5 @@
 import musicStyles from "./music.module.css";
+import Link from "next/link";
 
 export default function music() {
   return (
@@ -15,7 +16,9 @@ export default function music() {
           <h3>Greensleeves</h3>
           <img src="https://www.mfiles.co.uk/scores/greensleeves-flute-and-guitar.jpg" />
           <p>An English song that was well known by the time of Shakespeare</p>
-          <button>Read More</button>
+
+          <Link href="/music/greensleeves">Read More</Link>
+          {/* <button>Read More</button> */}
         </div>
 
         <div>
