@@ -23,3 +23,12 @@
 
   /* background-color: var(--primary-color-rgba); */
 }
+
+.sh1 {
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 18px;
+}
