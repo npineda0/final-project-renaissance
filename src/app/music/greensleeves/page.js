@@ -7,7 +7,11 @@ export default function () {
     <main>
       <h1>Greensleeves</h1>
 
-      <Music title="Green" images={pic} text="hi"></Music>
+      <Music
+        title="Music Sheet"
+        images={pic}
+        text="ss a traditional English folk song. A broadside ballad by the name A Newe Northen Dittye of ye Ladye Greene Sleves was registered by Richard Jones at the London Stationers' Company in September 1580,and the tune is found in several late 16th-century and early 17th-century sources, such as Ballet's MS Lute Book and Het Luitboek van Thysius, as well as various manuscripts preserved in the Seeley Historical Library in the University of Cambridge."
+      ></Music>
     </main>
   );
 }
