@@ -27,7 +27,10 @@ export default function music() {
           <h3>Missa Papae Marcelli</h3>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXBE8FQ0l1zB_YB5qFJVqBXLegqjQ7yMoQQ&s" />
           <p>Written by Giovanni Pierluigi</p>
-          <button>Read More</button>
+          <button>
+            {" "}
+            <Link href="/music/missa">Read More</Link>
+          </button>
         </div>
 
         <div>
