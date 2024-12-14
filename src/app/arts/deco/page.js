@@ -8,17 +8,24 @@ export default function deco() {
       <div className={decoStyles.content}>
         <Item
           pic={"/The Crossing of the Granicus, from The Story of....jpg"}
-          alt={"hold"}
-          name={"WA"}
-          year={"year"}
+          alt={"A rug"}
+          name={
+            "The Crossing of the Granicus, from The Story of Alexander the Great"
+          }
+          year={"1619"}
         ></Item>
         <Item
           pic={"/Footed Bowl.jpg"}
-          alt={"hold"}
+          alt={"A blue bowl"}
           name={"Footed Bowl"}
-          year={"year"}
+          year={"1485-1495"}
         ></Item>
-        <Item pic={"/"} alt={"hold"} name={"WA"} year={"year"}></Item>
+        <Item
+          pic={"/Chalice.jpg"}
+          alt={"A chalice"}
+          name={"Chalice"}
+          year={"1500-1520"}
+        ></Item>
       </div>
     </main>
   );

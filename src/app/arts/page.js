@@ -1,5 +1,5 @@
 import artsStyles from "./arts.module.css";
-import Link from "next/link";
+import Learn from "@/components/LearnButton";
 
 export default function arts() {
   return (
@@ -14,35 +14,32 @@ export default function arts() {
       </p>
 
       <div className={artsStyles.content}>
-        <Link href="/arts/sculptures">
-          <div className={artsStyles.box}>
-            <h2>Sculptures</h2>
-            <img src="/sculpture-1.jpg" />
-            <p>
-              Renaissance sculptors made use of all kinds of materials, mainly
-              marble, bronze and wood, to create life like sculptures that
-              explored religion and depicted people more realistically.
-            </p>
-          </div>
-        </Link>
-        <Link href="/arts/deco">
-          <div className={artsStyles.box}>
-            <h2>Decorative</h2>
-            <img src="/The Crossing of the Granicus, from The Story of....jpg" />
-            <p>Items like furniture, ceramics, or textiles.</p>
-          </div>
-        </Link>
-        <Link href="/arts/paintings">
-          <div className={artsStyles.box}>
-            <h2>Paintings</h2>
-            <img src="/venus-birth.jpg" />
-            <p>
-              Often depict figures with accurate anatomy, natural landscapes,
-              and use techniques like perspective to create a sense of depth,
-              all while exploring themes beyond strictly religious subjects.
-            </p>
-          </div>
-        </Link>
+        <div className={artsStyles.box}>
+          <h2>Sculptures</h2>
+          <img src="/sculpture-1.jpg" />
+          <p>
+            Renaissance sculptors made use of all kinds of materials, mainly
+            marble, bronze and wood, to create life like sculptures that
+            explored religion and depicted people more realistically.
+          </p>
+          <Learn link={"/arts/sculptures"}></Learn>
+        </div>
+        <div className={artsStyles.box}>
+          <h2>Decorative</h2>
+          <img src="/The Crossing of the Granicus, from The Story of....jpg" />
+          <p>Items like furniture, ceramics, or textiles.</p>
+          <Learn link={"/arts/deco"}></Learn>
+        </div>
+        <div className={artsStyles.box}>
+          <h2>Paintings</h2>
+          <img src="/venus-birth.jpg" />
+          <p>
+            Often depict figures with accurate anatomy, natural landscapes, and
+            use techniques like perspective to create a sense of depth, all
+            while exploring themes beyond strictly religious subjects.
+          </p>
+          <Learn link={"/arts/paintings"}></Learn>
+        </div>
       </div>
     </main>
   );
