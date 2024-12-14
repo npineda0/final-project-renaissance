@@ -22,3 +22,11 @@
     justify-content: center;
     width: 400px;
 }
+
+.layoutDesign h1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}

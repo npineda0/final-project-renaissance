@@ -1,12 +1,11 @@
 import Music from "@/components/musicLayout";
+import missaStyle from "../missa/missa.module.css";
 
 export default function () {
   let pic =
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkXBE8FQ0l1zB_YB5qFJVqBXLegqjQ7yMoQQ&s";
   return (
     <main>
-      <h1>Missa Papae Marcelli</h1>
-
       <Music
         title="Music Sheet"
         images={pic}

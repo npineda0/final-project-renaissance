@@ -5,8 +5,6 @@ export default function () {
     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMAMlG9sLlH_VGWv3obFTOZqY_T-F24uz5aQ&s";
   return (
     <main>
-      <h1>Greensleeves</h1>
-
       <Music
         title="Music Sheet"
         images={pic}
