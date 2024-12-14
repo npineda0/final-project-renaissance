@@ -1,3 +1,4 @@
+import ContactButton from "@/components/contactButton/page";
 import musicStyles from "./music.module.css";
 import Link from "next/link";
 
@@ -47,6 +48,7 @@ export default function music() {
           </button>
         </div>
       </section>
+      <ContactButton>Go to Contact</ContactButton>
     </main>
   );
 }
