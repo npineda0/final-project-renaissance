@@ -37,7 +37,11 @@ export default function music() {
             A secular vocal genre that was usually performed acappella and in
             polyphonic texture
           </p>
-          <button>Read More</button>
+
+          <button>
+            {" "}
+            <Link href="/music/madrigal">Read More</Link>
+          </button>
         </div>
       </section>
     </main>
